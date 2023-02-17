@@ -113,6 +113,6 @@ import math
 # ========= the ending of 2-task ==============
 
 # ========== 3-task ===========================
-x = int(input("x>> "))
-y = 2.5*math.sqrt(math.pow(x,4)) + math.sin(4/x)
-print("y:  ", y)
+# x = int(input("x>> "))
+# y = 2.5*math.sqrt(math.pow(x,4)) + math.sin(4/x)
+# print("y:  ", y)
